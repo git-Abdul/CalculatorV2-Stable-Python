@@ -5,7 +5,7 @@ screen.title('Calculator - Dev: Abdul Rehman')
 screen.geometry("365x490")
 screen.configure(bg='black')
 screen.resizable(False, False)
-screen.iconbitmap('calculator.ico')
+screen.iconbitmap('icon.ico')
 dark_title_bar(screen)
 
 
